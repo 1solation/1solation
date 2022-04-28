@@ -1,9 +1,11 @@
 Hi there, I'm Hasib <img src="https://raw.githubusercontent.com/1solation/1solation/master/wave.gif" width="30px">
 ======================
 
+<img src="https://raw.githubusercontent.com/1solation/1solation/master/coding.gif" width="350px" height="252px">
+
+
 Full Stack Engineer
 -------------------
-<img src="https://raw.githubusercontent.com/1solation/1solation/master/coding.gif" width="350px" height="252px">
 
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
@@ -52,6 +54,7 @@ Here are some of my recent articles:
                   src="https://img.shields.io/github/followers/1solation?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 <a href="http://www.github.com/1solation"><img src="https://github-readme-stats.vercel.app/api?username=1solation&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="1solation's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/1solation"><img src="https://activity-graph.herokuapp.com/graph?username=1solation&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
