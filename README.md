@@ -3,8 +3,8 @@ Hi there, I'm Hasib 👋🏽
 
 Full Stack Engineer
 -------------------
-
-<img src="https://giphy.com/embed/kJ1iL1ZQIyibu" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+![](https://giphy.com/embed/kJ1iL1ZQIyibu.gif)
+<img src="https://giphy.com/embed/kJ1iL1ZQIyibu.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
