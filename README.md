@@ -3,6 +3,7 @@ Hi there, I'm Hasib <img src="https://raw.githubusercontent.com/1solation/1solat
 
 Full Stack Engineer
 -------------------
+<img src="https://raw.githubusercontent.com/1solation/1solation/master/coding.gif" width="350px" height="252px">
 
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
