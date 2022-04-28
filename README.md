@@ -47,5 +47,9 @@ I like tinkering with all the things, backend, frontend, mobile, hardware, etc! 
 
 <a href="http://www.github.com/1solation"><img src="https://activity-graph.herokuapp.com/graph?username=1solation&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+### My Latest Posts
+- [Getting Into Tech? Here's Your One Stop Shop](https://medium.com/@HasibA/getting-into-tech-heres-your-one-stop-shop-as-a-beginner-99f49330465a)
+- [University Group Projects - Tools & Tips](https://medium.com/@HasibA/group-projects-tools-tips-to-ease-the-process-c859ea776c63)
+
 ### Support Me
 <a href="https://www.buymeacoffee.com/hasibahmed"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
