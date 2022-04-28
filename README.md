@@ -1,8 +1,9 @@
-Hi there, I'm Hasib <img src="https://giphy.com/gifs/YQitE4YNQNahy"/> 
+Hi there, I'm Hasib 👋🏽
 ======================
 
 Full Stack Engineer
 -------------------
+<img src="https://giphy.com/gifs/YQitE4YNQNahy" width="100" height="100"/> 
 
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
