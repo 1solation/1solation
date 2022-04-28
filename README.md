@@ -1,4 +1,4 @@
-Hi there, I'm Hasib 👋 
+Hi there, I'm Hasib <img src="https://giphy.com/gifs/YQitE4YNQNahy" width="100" height="100" /> 
 ======================
 
 Full Stack Engineer
