@@ -40,6 +40,9 @@ I like tinkering with all the things, backend, frontend, mobile, hardware, etc! 
 
 <b>My GitHub Stats</b>
 
+<a href="https://www.github.com/1solation" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/1solation?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+
 <a href="http://www.github.com/1solation"><img src="https://github-readme-stats.vercel.app/api?username=1solation&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="1solation's GitHub stats" /></a>
 
 <a href="http://www.github.com/1solation"><img src="https://activity-graph.herokuapp.com/graph?username=1solation&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
