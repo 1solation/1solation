@@ -3,8 +3,8 @@ Hi there, I'm Hasib 👋🏽
 
 Full Stack Engineer
 -------------------
-![](https://media4.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif?cid=ecf05e47la0sitczob00fqhuizghw774guu4of9dbxao61lo&rid=giphy.gif)
-<img src="https://media4.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif?cid=ecf05e47la0sitczob00fqhuizghw774guu4of9dbxao61lo&rid=giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+<img src="https://media4.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif?cid=ecf05e47la0sitczob00fqhuizghw774guu4of9dbxao61lo&rid=giphy.gif" width="480" height="360">
 
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
