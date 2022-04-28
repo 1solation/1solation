@@ -1,4 +1,4 @@
-Hi 👋 My name is Hasib
+Hi there, I'm Hasib 👋 
 ======================
 
 Full Stack Engineer
