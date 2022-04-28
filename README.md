@@ -1,9 +1,6 @@
 Hi there, I'm Hasib <img src="https://raw.githubusercontent.com/1solation/1solation/master/wave.gif" width="30px">
 ======================
 
-<img src="https://raw.githubusercontent.com/1solation/1solation/master/coding.gif" width="350px" height="252px">
-
-
 Full Stack Engineer
 -------------------
 
