@@ -40,6 +40,7 @@ I like tinkering with all the things, backend, frontend, mobile, hardware, etc! 
 Aside from coding, I also maintain a blog. You can find my articles over on [Medium](http://www.medium.com/@HasibA).
 
 Here are some of my recent articles:
+- [Blockchain Layers - What are they?](https://medium.com/@HasibA/blockchain-layers-what-are-they-41d9688fdec0)
 - [Getting Into Tech? Here's Your One Stop Shop](https://medium.com/@HasibA/getting-into-tech-heres-your-one-stop-shop-as-a-beginner-99f49330465a)
 - [University Group Projects - Tools & Tips](https://medium.com/@HasibA/group-projects-tools-tips-to-ease-the-process-c859ea776c63)
 
