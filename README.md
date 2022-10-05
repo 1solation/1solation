@@ -37,12 +37,7 @@ I like tinkering with all the things, backend, frontend, mobile, hardware, etc! 
  <p align="left"> <a href="https://www.github.com/1solation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hasib-ahmed1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@HasibA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Blogging
-Aside from coding, I also maintain a blog. You can find my articles over on [Medium](http://www.medium.com/@HasibA).
-
-Here are some of my recent articles:
-- [Blockchain Layers - What are they?](https://medium.com/@HasibA/blockchain-layers-what-are-they-41d9688fdec0)
-- [Getting Into Tech? Here's Your One Stop Shop](https://medium.com/@HasibA/getting-into-tech-heres-your-one-stop-shop-as-a-beginner-99f49330465a)
-- [University Group Projects - Tools & Tips](https://medium.com/@HasibA/group-projects-tools-tips-to-ease-the-process-c859ea776c63)
+Aside from coding, I also maintain a blog. You can find my articles over on [dev.to](https://dev.to/1solation).
 
 ### Badges
 
