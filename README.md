@@ -7,8 +7,11 @@ Full Stack Engineer
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
 *   🌍  I'm based in Manchester, UK
-*   🖥️  See my [outdated university portfolio 😅](http://hasibahmed.dev)
+<!-- *   🖥️  See my [outdated university portfolio 😅](http://hasibahmed.dev) -->
 *   🤝  I'm open to collaborating on tech for good projects!
+
+### Blogging
+Aside from coding, I also maintain a blog. You can find my articles over on [dev.to](https://dev.to/1solation).
 
 ### Skills
 <p align="left">
@@ -35,9 +38,6 @@ I like tinkering with all the things, backend, frontend, mobile, hardware, etc! 
 ### Socials
                   
  <p align="left"> <a href="https://www.github.com/1solation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hasib-ahmed1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Blogging
-Aside from coding, I also maintain a blog. You can find my articles over on [dev.to](https://dev.to/1solation).
 
 ### Badges
 
