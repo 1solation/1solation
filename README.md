@@ -6,7 +6,7 @@ Full Stack Engineer
 
 I like tinkering with all the things, backend, frontend, mobile, hardware, etc! I love the idea of tech for good, so anything related to using technology to help, improve, or better lives is what interests me. If you have a project like this, let me know!
 
-*   🌍  I'm based in Manchester, UK
+*   🌍  I'm based in the UK
 <!-- *   🖥️  See my [outdated university portfolio 😅](http://hasibahmed.dev) -->
 *   🤝  I'm open to collaborating on tech for good projects!
 
